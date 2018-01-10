@@ -1,0 +1,11 @@
+{
+	"name": "gulp-project",
+	"version": "0.1.0",
+	"devDependencies": {
+		"browser-sync": "^2.23.3",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^4.1.0",
+		"gulp-group-css-media-queries": "^1.2.0",
+		"gulp-less": "^3.4.0"
+	}
+}
